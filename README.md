@@ -1,4 +1,4 @@
- # Electonics Projects 
+ # Electronics  Projects 
 
 1.Understanding the capacitor
 
