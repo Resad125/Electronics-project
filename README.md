@@ -88,9 +88,4 @@ https://www.slideshare.net/slideshow/fet_presentation-pdf-farid-aliyev-masud-nas
 https://www.slideshare.net/slideshow/physics-guide-an-analysis-of-authors-m-sud-n-sirov-f-rid-liyev-tuqay-qarayev-r-mzi-huseynli-r-sad-m-mm-dov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505357
 
 
-Verified by: Telman Askeraliyev (Fizika Müəllimi) – Azerbaijan
 
-Contact:
-
-LinkedIn
-Instagram
