@@ -14,8 +14,8 @@ An integrated, multi-sensor smart home automation and security loop system built
 As per the final portfolio evaluation criteria, the verified technical documentation and the full video explanation are published below:
 
 • 📑 Official Technical Paper (Academia.edu): [Click Here to Read the Full Publication on Academia.edu]
-
 •https://www.academia.edu/167426041/Individual_Project_Portfolio_Project_2_6?source=swp_share
+
 • 🎥 5-Minute Technical Video Presentation (YouTube): [Click Here to Watch the Video Demonstration on YouTube]
 • https://youtu.be/2tRkW_6PprY?si=vYZFsISPvdJWm3N-
 
