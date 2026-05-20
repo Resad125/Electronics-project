@@ -53,6 +53,12 @@ To verify the system's runtime stability and code correctness, systematic enviro
 * **Current Limiting:** The Red LED matrix line is isolated using a **220Ω resistor** to prevent simulation overcurrent warnings on the microcontroller output pins.
 
 
+# Verified by: Telman Askeraliyev (Fizika Müəllimi) – Azerbaijan
+Contact: 
+# Linkedln: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+# İnstagram: https://www.instagram.com/physics_teacher_azerbaijan?igsh=MW1sa2trcnN3d3B2aw==
+
 
 
 
