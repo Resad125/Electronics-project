@@ -15,7 +15,7 @@ As per the final portfolio evaluation criteria, the verified technical documenta
 
 • 📑 Official Technical Paper (Academia.edu): [Click Here to Read the Full Publication on Academia.edu]
 
-• https://www.academia.edu/167426041/Individual_Project_Portfolio_Project_2_6?source=swp_share
+•https://www.academia.edu/167426041/Individual_Project_Portfolio_Project_2_6?source=swp_share
 • 🎥 5-Minute Technical Video Presentation (YouTube): [Click Here to Watch the Video Demonstration on YouTube]
 • https://youtu.be/2tRkW_6PprY?si=vYZFsISPvdJWm3N-
 
@@ -34,7 +34,7 @@ https://drive.google.com/file/d/18-HTkukPw251G76OUwly5ij86eXo6s7-/view?usp=drive
 
 
 
-#All  Electronics Project
+# All  Electronics Project
 1.Understanding the capacitor
 
 https://www.slideshare.net/slideshow/ruslan-qasimov-kamran-liquliyev-f-rid-liyev-emin-r-himov-m-sud-n-sirov-r-mzi-huseynli-r-sad-m-mm-dov-pdf/286799768
