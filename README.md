@@ -27,7 +27,7 @@ https://youtu.be/2tRkW_6PprY?si=vYZFsISPvdJWm3N-
   * **Safety Priority Override:** Real-time event-driven interrupt logic triggered by the PIR sensor to immediately execute acoustic-visual emergency routines.
 
 # My copybook
-https://drive.google.com/file/d/18-HTkukPw251G76OUwly5ij86eXo6s7-/view?usp=drivesdk
+https://drive.google.com/file/d/1EtdW8sG3UHihlV1CIxO_6yCBYBJ--uI5/view?usp=drivesdk
 
 # Full Project Description
 
